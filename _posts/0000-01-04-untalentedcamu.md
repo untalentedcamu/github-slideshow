@@ -1,6 +1,6 @@
 ---
 layout: slide
 title: "Welcome to our second slide!"
+subtitle: "Mr. Wanderer"
 ---
-Your text
 Use the left arrow to go back!
